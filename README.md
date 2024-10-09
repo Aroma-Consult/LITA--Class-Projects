@@ -4,39 +4,32 @@
  
  ### Project Overview
  The goal of this project is to stimulate a real-world  data entry scenarios where large volumes of data need to be input, categorized, and formatted for analysis. The projects will showcase key skils such as accurate data entry, data validation, formatting, sorting, filtering, and basic data analysis using excel functions.  
+        
+ ###  Data Source  
+The dataset used for this project was provided by our facilitator, Mr. Hameed Muhsin. It is an open-source dataset that can be freely downloaded from platforms like Kaggle, FRED, or other open data repositories.
 
- ### Data Sources
- The primary source of data used for this project was provided by our facilitator, Mr Hameed Muhsin and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
-
- ### Tools Used
--  Microsoft Excel [Download Here](https://www.microsoft.com)
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   
-  i. For Data Cleaning
-  
-  ii. For Analysis
-  
-  iii. For Data Visualization
-     
--  SQL- Structured Query Language for Querying of Data
-  
--  GitHub for Portfolio Building
-
-
- ### Data cleaning and Preparations
- At the initial phase of the Data Cleaning and Preparations, we performed the following actions;
+   i. Data Cleaning  
+   ii. Data Analysis  
+   iii. Data Visualization
    
-  1.  Data loading and Inspection
-  2.  Handling missing variables
-  3.  Data Cleaning and formatting
+- SQL (Structured Query Language) for querying data  
+- GitHub for portfolio building  
 
- ### Exploratory Data Analysis
- EDA involved the exploring of the Data to answer some questions about the Data such as;
- 
-   - What is the overall sales trend
-   - Which product are top sellers
-   - What are the products on peak sales?
-      
-   
+### Data Cleaning and Preparation  
+In the initial phase of data cleaning and preparation, we carried out the following tasks:  
+- Data loading and inspection  
+- Handling missing variables  
+- Data cleaning and formatting  
+- Exploratory Data Analysis (EDA)  
+
+### Exploratory Data Analysis (EDA) 
+The EDA process involved exploring the data to answer key questions, such as:  
+- What is the overall sales trend?  
+- Which products are the top sellers?  
+- Which products experience peak sales?
 
 
 
