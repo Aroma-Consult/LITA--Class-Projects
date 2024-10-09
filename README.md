@@ -12,11 +12,13 @@
 -  Microsoft Excel
   1. For Data Cleaning
   2. For Analysis 
-  3. For Visulization
+  3. For Data Visualization
      
--  SQL- Structured Query Language for querying of data
+-  SQL- Structured Query Language for Querying of Data
   
--  GitHub for Portfolio Building 
+-  GitHub for Portfolio Building
+
+  ###
 
 
 
